@@ -19,6 +19,6 @@ if not check_disk_usage("/", 2, 10):
     print("ERROR: Not enough disk space")
     sys.exit(6)
 
-print("This is Version 1")
+print("This is Version 2")
 print("Everything ok")
 sys.exit(0)
