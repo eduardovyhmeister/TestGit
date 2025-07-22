@@ -20,5 +20,6 @@ if not check_disk_usage("/", 2, 10):
     sys.exit(6)
 
 print("This is Version 3")
+print("this is added online")
 print("Everything ok")
 sys.exit(0)
